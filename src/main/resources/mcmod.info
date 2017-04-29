@@ -1,0 +1,16 @@
+[
+{
+  "modid": "eagtools",
+  "name": "Eagles Toolbox",
+  "description": "One of the Eagles mods",
+  "version": "1.0 BETA",
+  "mcversion": "1.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["EaglegamingDEV"],
+  "credits": "nothing",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["mod_MinecraftForge"]
+}
+]
